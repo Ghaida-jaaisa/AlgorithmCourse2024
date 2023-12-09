@@ -1,2 +1,3 @@
-#Algorithm Repository
-##Task1 : Factorial Calculation 
+# "AlgorithmsCourse”
+
+- Task1:Factorial Calculation
